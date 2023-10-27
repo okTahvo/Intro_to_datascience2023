@@ -18,6 +18,7 @@ def draw_radar_graph(data):
 def filter_data(data):
     for fiel in ["brand", "processor brand"]:
         values = sorted(data[fiel].unique())
+        print(fiel)
         print(values)
         an = input("Please write one of the items in the list above. Any other answer skips: ")
         if an in values:

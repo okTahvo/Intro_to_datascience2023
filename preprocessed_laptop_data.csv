@@ -901,10 +901,10 @@ acer,54990,AMD,5,,2.1,6.0,True,512.0,8,4.0,15.6,2073600.0,2.15,True,True,True,Tr
 Lenovo,51990,Intel,3,2020.0,4.10,2.0,True,256.0,8,,14,2073600.0,1.5,True,True,True,True
 HP,55490,Intel,3,2020.0,4.10,2.0,True,512.0,8,,14,2073600.0,1.61,True,True,True,True
 Lenovo,60870,Intel,5,2019.0,1.6,4.0,True,256.0,8,2.0,15.6,2073600.0,1.8,True,True,True,True
-lenovo,168998,Intel,7,2020.0,3,4.0,True,1024.0,16,,14,8294400.0,1.44,True,True,True,True
+Lenovo,168998,Intel,7,2020.0,3,4.0,True,1024.0,16,,14,8294400.0,1.44,True,True,True,True
 HP,94000,Intel,5,2020.0,,,True,512.0,8,,13.3,1049088.0,,False,True,False,False
 DELL,42090,Intel,3,2019.0,,,False,1024.0,8,,14.96,2138400.0,,False,True,False,False
-lenovo,99990,Intel,7,2020.0,2.8,4.0,True,512.0,16,,14,2073600.0,1.43,True,True,True,True
+Lenovo,99990,Intel,7,2020.0,2.8,4.0,True,512.0,16,,14,2073600.0,1.43,True,True,True,True
 Lenovo,64390,Intel,5,,2.4,4.0,True,256.0,8,4.0,15.6,2073600.0,2.3,True,True,True,True
 DELL,51990,Intel,5,2020.0,4.20,4.0,False,1024.0,8,,14,2073600.0,1.58,True,True,True,True
 DELL,39490,Intel,3,2019.0,1.2,2.0,True,256.0,4,,15,2073600.0,1.83,True,True,True,True
