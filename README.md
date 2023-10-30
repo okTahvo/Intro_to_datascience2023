@@ -30,3 +30,6 @@ The original data is in the file **complete_laptop_data0.csv**. Preprocessing of
 
 ##### The average score of laptops by ASUS that are suitable for online meetings:
 ![ASUS meeting laptops](./results/meeting_ASUS.png)
+
+### Conclusions
+Based on the results, Nokia and ASUS provide most value for money overall when buying a laptop that is suitable for online meetings.
